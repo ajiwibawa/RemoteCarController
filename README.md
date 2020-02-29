@@ -6,7 +6,7 @@ The idea is to teach the children a little something about radio waves and how t
 
 ## Required equipment
 *  Agilent 33220A Arbitrary Waveform Generator (GPIB Address: 8)
-*  Signal Source or waveform generator to generate a constant 49.9 MHz signal.
+*  Signal Source or waveform generator to generate a constant 49.9 MHz signal
 
 ## Tools
 *  Python 3.6
